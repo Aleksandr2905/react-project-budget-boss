@@ -10,7 +10,6 @@ export const DivContainer = styled.div`
   padding-top: 32px;
 
   @media screen and (min-width: 768px) {
-    width: 704px;
     border-radius: 30px;
     background: linear-gradient(
       116deg,
@@ -26,7 +25,7 @@ export const DivContainer = styled.div`
   }
 
   @media screen and (min-width: 1280px) {
-    width: 1034px;
+    max-width: 1034px;
   }
 `;
 

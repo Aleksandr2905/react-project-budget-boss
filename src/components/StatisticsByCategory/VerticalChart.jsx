@@ -159,7 +159,7 @@ export function VerticalChart({ keysArray, valuesArray }) {
     @media ${media.desktop} {
       margin-left: auto;
       margin-right: auto;
-      width: 1034px;
+      max-width: 1034px;
     }
   `;
   return (

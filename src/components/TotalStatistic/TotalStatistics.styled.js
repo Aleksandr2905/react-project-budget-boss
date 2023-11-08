@@ -95,8 +95,8 @@ export const IncomeTotal = styled.p`
 `;
 
 export const ReportPageWrapper = styled.div`
-padding-left: 20px;
-padding-right: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
 
   @media screen and (min-width: 768px) {
     margin-bottom: 60px;
